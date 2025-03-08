@@ -7,7 +7,7 @@ sections:
       text: Resume – Madison Sourp
       color: text-dark
       type: TitleBlock
-    subtitle: Profile
+    subtitle: Madison Sourp
     text: >+
       Energetic and dedicated individual with a proven track record of
       excellence in time management, conflict resolution, and self-management.
