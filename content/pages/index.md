@@ -8,10 +8,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Energetic and dedicated individual with a proven track record of
+      excellence in time management, conflict resolution, and self-management.
+      Highly resilient and organized, with a strong ability to prioritize tasks
+      and meet deadlines. Possess specialized skills in rekeying locks and
+      proficiency in basic computer applications, including Microsoft Office. A
+      collaborative team player known for reliability and effective
+      communication. Committed to delivering exceptional service and
+      contributing positively to team dynamics.
+
+
+
     actions:
       - label: Get started
         altText: ''
