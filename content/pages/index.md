@@ -44,10 +44,6 @@ sections:
       elementId: ''
       type: ImageBlock
       url: /images/image0.webp
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
