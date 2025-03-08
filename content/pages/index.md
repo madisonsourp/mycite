@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Resume
+      text: Profile
       color: text-dark
       type: TitleBlock
     subtitle: Madison Sourp
