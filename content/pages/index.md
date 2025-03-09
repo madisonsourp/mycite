@@ -224,7 +224,7 @@ sections:
       - type: FeaturedItem
         title: Ironwood High School
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: August 2018 - May 2022
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
