@@ -278,6 +278,7 @@ sections:
         styles:
           self:
             flexDirection: row
+        text: "\nHigh School Diploma\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (August 2018 - May 2022)\n\n"
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
