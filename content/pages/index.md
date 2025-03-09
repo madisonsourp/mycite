@@ -131,7 +131,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: CarouselSection
-    subtitle: Arizona Animal Welfare League
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
