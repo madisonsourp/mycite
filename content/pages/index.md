@@ -250,10 +250,10 @@ sections:
         tagline: Bachelor of Science in Justice Studies
         subtitle: September 2022 - Current
         text: >+
-          <div style="text-align: left">Relevant Coursework:*   Bachelor of
-          Science in Forensic ScienceForensic Photography &
-          ReconstructionCritical Analysis in Forensic Science*   Bachelor of
-          Science in Justice StudiesThe Correctional Function
+          <div style="text-align: left">Relevant Coursework:Bachelor of Science
+          in Forensic ScienceForensic Photography & ReconstructionCritical
+          Analysis in Forensic ScienceBachelor of Science in Justice StudiesThe
+          Correctional Function
 
           The Adjudication Function
 
