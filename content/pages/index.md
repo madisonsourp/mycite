@@ -283,7 +283,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: E
+      text: Education
       color: text-primary
       styles:
         self:
