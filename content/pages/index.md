@@ -304,7 +304,7 @@ sections:
       - type: FeaturedItem
         title: Grand Canyon University
         tagline: Feature 1
-        subtitle: Bachelor of Science in Justice Studies
+        subtitle: Bachelor of Science in Justice Studies (September 2022 - Current)
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
