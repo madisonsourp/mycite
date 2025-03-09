@@ -297,18 +297,24 @@ sections:
       - type: FeaturedItem
         title: Grand Canyon University
         subtitle: "Bachelor of Science in Justice Studies\_\_\_ (September 2022 - Current)"
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: >
+          In my academic career, I was in the process of obtaining a Bachelor of
+          Forensic Science degree which was originally in Forensic Science in
+          2022. The program included special coursework such as Forensic
+          Photography and Reconstruction as well as Critical Analysis in
+          Forensic Science, which helped me learn how to document evidence,
+          analyze evidence and gain a deep understanding of the field of
+          forensic science. In 2023, I changed my major from Bachelor of
+          Forensic Science to Bachelor of Science in Justice Studies because I
+          wanted to gain more hands-on experience in the field of what I wanted
+          to do in the long run, namely work in the field. In addition to
+          courses in Correctional Function, Adjudication Function, and Police
+          Function, I gained a solid understanding of ethics, professional
+          responsibility, and criminal behavior during these courses and in
+          courses like Professional Responsibility in Justice and Criminal
+          Behavior and Victimology. I possess analytical and forensic skills,
+          along with a deep understanding of justice and forensic principles,
+          thanks to this multidisciplinary education.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
