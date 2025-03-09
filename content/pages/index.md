@@ -224,7 +224,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Education
       color: text-dark
       styles:
         self:
