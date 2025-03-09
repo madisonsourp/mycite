@@ -57,7 +57,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Lowe's Home Improvement
+        title: Arizona Animal Welfare League
         subtitle: Customer Service Associate - Hardware
         text: >
           At Lowe's, my duties as a Hardware and Tools Associate include
