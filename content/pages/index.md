@@ -138,15 +138,14 @@ sections:
         tagline: Customer Service Associate - Hardware
         subtitle: 'May 21, 2024 - Current'
         text: >
-          During my time volunteering at the Arizona Animal Welfare League, I
-          assisted in maintaining a clean and hygienic living environment for
-          animals by cleaning pet cages and ensuring that pets were provided
-          with a nutritious diet that ensured they were healthy and happy.
-          Engaged prospective pet adopters and facilitated smooth operations at
-          adoption events in order to generate support for animal welfare
-          initiatives. Additionally, I have gained a deeper understanding of
-          some medical aspects and considerations related to pets, and gained
-          insight into animal behavior.
+          At Lowe's, my duties as a Hardware and Tools Associate include
+          stocking and organizing the hardware and tools departments, helping
+          customers locate and choose the right items for their tasks, and
+          making product suggestions. Additionally, I keep track of inventory
+          and make sure shelves are properly supplied. Comprehensive hardware
+          and tool knowledge, excellent customer service abilities, physical
+          stamina, attention to detail, teamwork skills, and the capacity to
+          re-key locks for clients are all necessary for this position.
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
