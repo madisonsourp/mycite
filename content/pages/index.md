@@ -211,8 +211,15 @@ sections:
       - title: Lowe's Home Improvement
         tagline: Customer Service Associate - Hardware
         subtitle: 'May 21, 2024 - Current'
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          At Lowe's, my duties as a Hardware and Tools Associate include
+          stocking and organizing the hardware and tools departments, helping
+          customers locate and choose the right items for their tasks, and
+          making product suggestions. Additionally, I keep track of inventory
+          and make sure shelves are properly supplied. Comprehensive hardware
+          and tool knowledge, excellent customer service abilities, physical
+          stamina, attention to detail, teamwork skills, and the capacity to
+          re-key locks for clients are all necessary for this position.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
