@@ -129,7 +129,7 @@ sections:
       label: Experience
       color: text-primary
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Experience
     items:
       - type: FeaturedItem
         title: >-
