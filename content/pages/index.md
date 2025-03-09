@@ -256,20 +256,18 @@ sections:
           coursework such as Forensic Photography and Reconstruction as well as
           Critical Analysis in Forensic Science, which helped me learn how to
           document evidence, analyze evidence and gain a deep understanding of
-          the field of forensic science.I changed my major from Bachelor of
-          Forensic Science to Bachelor of Science in Justice Studies after a
-          year in 2023 because I wanted to move away from the lab and gain more
-          hands-on experience in the field of what I wanted to do in the long
-          run, namely work in the field. Through courses such as Correctional
-          Function, Adjudication Function, and Police Function, which provided
-          me with an in-depth understanding of the justice system, I acquired an
-          in-depth understanding of the justice system through the courses.
-          Through courses such as Professional Responsibility in Justice and
-          Criminal Behavior and Victimology, I also gained a strong
-          understanding of ethics, professional responsibility, and criminal
-          behavior.As a result of this multidisciplinary education, I am able to
-          excel in fields that require analytical and forensic skills, along
-          with a deep understanding of justice and forensic principles.</div>
+          the field of forensic science. In 2023, I changed my major from
+          Bachelor of Forensic Science to Bachelor of Science in Justice Studies
+          because I wanted to gain more hands-on experience in the field of what
+          I wanted to do in the long run, namely work in the field.My in-depth
+          understanding of the justice system was gained from courses such as
+          Correctional Function, Adjudication Function, and Police Function.
+          Throughout these courses and through courses such as Professional
+          Responsibility in Justice and Criminal Behavior and Victimology, I
+          gained a strong understanding of ethics, professional responsibility,
+          and criminal behavior. I possess analytical and forensic skills, along
+          with a deep understanding of justice and forensic principles, thanks
+          to this multidisciplinary education.</div>
 
         image:
           type: ImageBlock
