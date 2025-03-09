@@ -138,23 +138,18 @@ sections:
         title: Grand Canyon University
         subtitle: "Bachelor of Science in Justice Studies\_\_\_ (September 2022 - Current)"
         text: >
-          In my academic career, I was in the process of obtaining a Bachelor of
-          Forensic Science degree which was originally in Forensic Science in
-          2022. The program included special coursework such as Forensic
-          Photography and Reconstruction as well as Critical Analysis in
-          Forensic Science, which helped me learn how to document evidence,
-          analyze evidence and gain a deep understanding of the field of
-          forensic science. In 2023, I changed my major from Bachelor of
-          Forensic Science to Bachelor of Science in Justice Studies because I
-          wanted to gain more hands-on experience in the field of what I wanted
-          to do in the long run, namely work in the field. In addition to
-          courses in Correctional Function, Adjudication Function, and Police
-          Function, I gained a solid understanding of ethics, professional
-          responsibility, and criminal behavior during these courses and in
-          courses like Professional Responsibility in Justice and Criminal
-          Behavior and Victimology. I possess analytical and forensic skills,
-          along with a deep understanding of justice and forensic principles,
-          thanks to this multidisciplinary education.
+          As a high school freshman in 2018, I had initially hoped to pursue a
+          career in veterinary medicine or nursing, motivated by my passion for
+          helping others and caring for animals. In high school, I experienced
+          some learning issues due to the fact that I had to work harder than
+          others in order to learn the material and math and science were among
+          my favorite subjects in school. I took a criminal justice class at the
+          beginning of my senior year and it sparked a newfound interest in the
+          field of justice studies, and this experience encouraged me to explore
+          careers in this field, as well as shaping my career aspirations and
+          deepening my knowledge of law and society. There are many things that
+          I learned from my high school journey that continue to guide me today,
+          including resilience, adaptability, and a commitment to growth.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
