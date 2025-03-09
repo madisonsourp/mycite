@@ -218,7 +218,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Grand Canyon University
-        tagline: Feature 1
+        tagline: Education1
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
