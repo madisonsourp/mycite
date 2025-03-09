@@ -167,7 +167,7 @@ sections:
       - type: FeaturedItem
         title: Arizona Animal Welfare League
         tagline: Volunteer
-        subtitle: 'Jane Doe, Company'
+        subtitle: February 2019 - November 2019
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
