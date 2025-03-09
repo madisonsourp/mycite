@@ -135,10 +135,15 @@ sections:
         title: Lowe's Home Improvement
         tagline: Customer Service Associate - Hardware
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          At Lowe's, my duties as a Hardware and Tools Associate include
+          stocking and organizing the hardware and tools departments, helping
+          customers locate and choose the right items for their tasks, and
+          making product suggestions. Additionally, I keep track of inventory
+          and make sure shelves are properly supplied. Comprehensive hardware
+          and tool knowledge, excellent customer service abilities, physical
+          stamina, attention to detail, teamwork skills, and the capacity to
+          re-key locks for clients are all necessary for this position.
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
