@@ -128,7 +128,7 @@ sections:
         fontWeight: 700
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Experience
       color: text-dark
   - type: FeaturedItemsSection
     title:
