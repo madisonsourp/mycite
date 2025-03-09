@@ -131,7 +131,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Arizona Animal Welfare League
     items:
       - type: FeaturedItem
         title: >-
