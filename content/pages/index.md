@@ -291,22 +291,6 @@ sections:
           deepening my knowledge of law and society. There are many things that
           I learned from my high school journey that continue to guide me today,
           including resilience, adaptability, and a commitment to growth.
-      - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
     actions: []
     elementId: ''
     variant: small-list
