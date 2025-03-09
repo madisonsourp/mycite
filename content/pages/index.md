@@ -291,7 +291,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Ironwood High School
         tagline: August 2018 - May 2022
         subtitle: This is the item subtitle
         text: |
