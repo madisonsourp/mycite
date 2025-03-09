@@ -220,7 +220,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Grand Canyon University
-        subtitle: $ 88 – $ 176
+        subtitle: "Bachelor of Science in Justice Studies\_\_\_ (September 2022 - Current)"
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
