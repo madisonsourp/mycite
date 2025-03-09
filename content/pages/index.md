@@ -170,10 +170,16 @@ sections:
         title: Arizona Animal Welfare League
         tagline: Volunteer
         subtitle: February 2019 - November 2019
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          During my time volunteering at the Arizona Animal Welfare League, I
+          assisted in maintaining a clean and hygienic living environment for
+          animals by cleaning pet cages and ensuring that pets were provided
+          with a nutritious diet that ensured they were healthy and happy.
+          Engaged prospective pet adopters and facilitated smooth operations at
+          adoption events in order to generate support for animal welfare
+          initiatives. Additionally, I have gained a deeper understanding of
+          some medical aspects and considerations related to pets, and gained
+          insight into animal behavior.
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
