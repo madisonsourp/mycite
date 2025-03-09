@@ -250,18 +250,26 @@ sections:
         tagline: Bachelor of Science in Justice Studies
         subtitle: September 2022 - Current
         text: >+
-          <div style="text-align: left">Relevant Coursework:Bachelor of Science
-          in Forensic ScienceForensic Photography & ReconstructionCritical
-          Analysis in Forensic ScienceBachelor of Science in Justice StudiesThe
-          Correctional Function
-
-          The Adjudication Function
-
-          The Police Function
-
-          Professional Responsibility in Justice
-
-          Criminal Behavior and Victimology</div>
+          <div style="text-align: left">In my academic career, I was in the
+          process of obtaining a Bachelor of Forensic Science degree which was
+          originally in Forensic Science in 2022. The program included special
+          coursework such as Forensic Photography and Reconstruction as well as
+          Critical Analysis in Forensic Science, which helped me learn how to
+          document evidence, analyze evidence and gain a deep understanding of
+          the field of forensic science.I changed my major from Bachelor of
+          Forensic Science to Bachelor of Science in Justice Studies after a
+          year in 2023 because I wanted to move away from the lab and gain more
+          hands-on experience in the field of what I wanted to do in the long
+          run, namely work in the field. Through courses such as Correctional
+          Function, Adjudication Function, and Police Function, which provided
+          me with an in-depth understanding of the justice system, I acquired an
+          in-depth understanding of the justice system through the courses.
+          Through courses such as Professional Responsibility in Justice and
+          Criminal Behavior and Victimology, I also gained a strong
+          understanding of ethics, professional responsibility, and criminal
+          behavior.As a result of this multidisciplinary education, I am able to
+          excel in fields that require analytical and forensic skills, along
+          with a deep understanding of justice and forensic principles.</div>
 
         image:
           type: ImageBlock
