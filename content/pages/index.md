@@ -134,7 +134,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Arizona Animal Welfare League
+        title: Lowe's Home Improvement
         tagline: Volunteer
         subtitle: February 2019 - November 2019
         text: >
