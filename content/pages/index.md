@@ -187,7 +187,7 @@ sections:
     items:
       - title: Arizona Animal Welfare League
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: "Volunteer\_\_\_\_\_\_\_\_\_\_\_ February 2019 - November 2019"
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
