@@ -281,7 +281,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: Ironwood High School
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
