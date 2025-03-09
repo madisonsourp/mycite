@@ -48,7 +48,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    subtitle: Experience
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Lowe's Home Improvement
