@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Lowe's Home Improvement Customer Service Associate - Hardware
+      - title: Lowe's Home Improvement (Customer Service Associate - Hardware)
         subtitle: 'May 21, 2024 - Current'
         text: >
           At Lowe's, my duties as a Hardware and Tools Associate include
