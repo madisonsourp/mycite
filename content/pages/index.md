@@ -124,6 +124,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Experience
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
