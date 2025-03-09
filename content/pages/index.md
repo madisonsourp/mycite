@@ -296,7 +296,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Grand Canyon University
-        subtitle: Bachelor of Science in Justice Studies
+        subtitle: Bachelor of Science in Justice Studies (September 2022 - Current
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
