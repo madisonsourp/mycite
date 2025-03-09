@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Lowe's Home Improvement
-        subtitle: Numbers Done
+        subtitle: Customer Service Associate - Hardware
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
