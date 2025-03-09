@@ -56,7 +56,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Arizona Animal Welfare League
+      - title: ''
         tagline: Volunteer
         subtitle: February 2019 - November 2019
         text: >
