@@ -209,38 +209,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Skills
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      The skills I possess include being a dependable and well-organized
-      professional who can manage time well, resolve conflicts well, and
-      self-regulate, resilient and skilled at maintaining efficiency in varied
-      settings, as well as proficiency with Microsoft Office and other key
-      computer programs and expertise with rekeying locks. Collaborative team
-      player who exhibits exceptional organizational skills and adaptability as
-      well as the ability to contribute significantly to shared goals through
-      collaborative teamwork
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -340,6 +308,38 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Skills
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      The skills I possess include being a dependable and well-organized
+      professional who can manage time well, resolve conflicts well, and
+      self-regulate, resilient and skilled at maintaining efficiency in varied
+      settings, as well as proficiency with Microsoft Office and other key
+      computer programs and expertise with rekeying locks. Collaborative team
+      player who exhibits exceptional organizational skills and adaptability as
+      well as the ability to contribute significantly to shared goals through
+      collaborative teamwork
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
