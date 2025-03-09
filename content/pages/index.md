@@ -134,9 +134,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: Arizona Animal Welfare League
         tagline: Testimonial 1
         subtitle: February 2019 - November 2019
         text: >-
