@@ -135,7 +135,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Arizona Animal Welfare League
-        tagline: Testimonial 1
+        tagline: Volunteer
         subtitle: February 2019 - November 2019
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
