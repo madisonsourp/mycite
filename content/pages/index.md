@@ -222,11 +222,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      The skills I possess include being a dependable and well-organized
+      professional who can manage time well, resolve conflicts well, and
+      self-regulate, resilient and skilled at maintaining efficiency in varied
+      settings, as well as proficiency with Microsoft Office and other key
+      computer programs and expertise with rekeying locks. Collaborative team
+      player who exhibits exceptional organizational skills and adaptability as
+      well as the ability to contribute significantly to shared goals through
+      collaborative teamwork
     badge:
       label: ''
       color: text-primary
