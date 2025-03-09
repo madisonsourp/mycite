@@ -65,7 +65,7 @@ sections:
           re-key locks for clients are all necessary for this position.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Lowes-Logo.png
           altText: Maria Walters
           styles:
             self:
