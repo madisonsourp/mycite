@@ -292,7 +292,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: August 2018 - May 2022
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
