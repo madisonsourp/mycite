@@ -140,25 +140,23 @@ sections:
         text: >
           As of 2022, I have begun my studies at Grand Canyon University (GCU)
           as a forensic science major, with the ambition of becoming a crime
-          scene analyst as a result of my aspirations. During my time at the
+          scene analyst as a result of my aspirations. During my time at
           university, one of the most impactful courses I took was Forensic
           Photography & Reconstruction, which increased my interest in fieldwork
-          and crime scene analysis in a deeper way. Upon realizing that the
-          Forensic Science program primarily focused on laboratory based work, I
-          decided to shift my focus to Justice Studies in order to better align
-          my career goals of either working directly at crime scenes or working
-          as a police officer with the Justice Studies program. A Bachelor of
-          Science in Justice Studies is what I am currently pursuing, and I
-          expect to graduate from university in December of 2025. Throughout my
-          academic career, I have taken a number of courses in both Justice
-          Studies and Forensic Science, such as Forensic Photography and
-          Reconstruction, Critical Analysis in Forensic Science, Correctional
-          Function, Adjudication Function, Police Function, Criminal Behavior
-          and Victimology, and Professional Responsibility in Justice. As a
-          result of these experiences, I have gained critical thinking skills,
+          and crime scene analysis in a deeper way. After realizing that
+          forensic science mainly focused on laboratory work, I switched to
+          Justice Studies in an effort to align my career goals of either
+          working directly at crime scenes or as a police officer with the
+          program. A Bachelor of Science in Justice Studies is what I am
+          currently pursuing, and I expect to graduate from university in
+          December 2025. In both Justice Studies and Forensic Science, I have
+          taken a variety of courses, including Forensic Photography and
+          Reconstruction, Critical Analysis of Forensic Science, Criminal
+          Behavior and Victimology, Correctional Function, Adjudication
+          Function, Police Function, and Professional Responsibility in Justice.
+          Through these experiences, I have gained critical thinking skills,
           analytical abilities, and a comprehensive understanding of the justice
-          system, which has prepared me for a rewarding career in the field of
-          justice and crime scene analysis.
+          system, preparing me for a rewarding career in justice.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
