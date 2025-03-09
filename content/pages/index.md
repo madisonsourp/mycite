@@ -210,7 +210,7 @@ sections:
         type: FeaturedItem
       - title: Lowe's Home Improvement
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'May 21, 2024 - Current'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
