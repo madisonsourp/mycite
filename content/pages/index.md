@@ -249,8 +249,20 @@ sections:
         title: Grand Canyon University
         tagline: Bachelor of Science in Justice Studies
         subtitle: September 2022 - Current
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          <div style="text-align: left">Relevant Coursework:*   Bachelor of
+          Science in Forensic ScienceForensic Photography &
+          ReconstructionCritical Analysis in Forensic Science*   Bachelor of
+          Science in Justice StudiesThe Correctional Function
+
+          The Adjudication Function
+
+          The Police Function
+
+          Professional Responsibility in Justice
+
+          Criminal Behavior and Victimology</div>
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
