@@ -136,7 +136,7 @@ sections:
       - type: FeaturedItem
         title: Lowe's Home Improvement
         tagline: Customer Service Associate - Hardware
-        subtitle: February 2019 - November 2019
+        subtitle: 'May 21, 2024 - Current'
         text: >
           During my time volunteering at the Arizona Animal Welfare League, I
           assisted in maintaining a clean and hygienic living environment for
