@@ -186,7 +186,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Arizona Animal Welfare League
-        tagline: This is the tagline
+        tagline: Volunteer
         subtitle: February 2019 - November 2019
         text: |
           Follow the tutorial to build your first Netlify Create site.
