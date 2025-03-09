@@ -165,9 +165,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Arizona Animal Welfare League
         tagline: Volunteer
         subtitle: 'Jane Doe, Company'
         text: >-
