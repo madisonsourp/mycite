@@ -57,9 +57,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          Customer Service Associate - Hardware | Lowe's Home Improvement | 8497
-          W Thunderbird Rd, Peoria, AZ 85381
+        title: ''
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
