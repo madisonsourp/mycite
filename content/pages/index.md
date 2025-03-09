@@ -264,7 +264,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Ironwood High School
-        subtitle: $ 44.99 – $ 90
+        subtitle: "High School Diploma\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (August 2018 - May 2022)"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
