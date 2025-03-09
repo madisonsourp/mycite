@@ -246,7 +246,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Grand Canyon University
         tagline: Bachelor of Science in Justice Studies
         subtitle: September 2022 - Current
         text: |
