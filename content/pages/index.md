@@ -259,15 +259,14 @@ sections:
           the field of forensic science. In 2023, I changed my major from
           Bachelor of Forensic Science to Bachelor of Science in Justice Studies
           because I wanted to gain more hands-on experience in the field of what
-          I wanted to do in the long run, namely work in the field. My in-depth
-          understanding of the justice system was gained from courses such as
-          Correctional Function, Adjudication Function, and Police Function.
-          Throughout these courses and through courses such as Professional
-          Responsibility in Justice and Criminal Behavior and Victimology, I
-          gained a strong understanding of ethics, professional responsibility,
-          and criminal behavior. I possess analytical and forensic skills, along
-          with a deep understanding of justice and forensic principles, thanks
-          to this multidisciplinary education.</div>
+          I wanted to do in the long run, namely work in the field. In addition
+          to courses in Correctional Function, Adjudication Function, and Police
+          Function, I gained a solid understanding of ethics, professional
+          responsibility, and criminal behavior during these courses and in
+          courses like Professional Responsibility in Justice and Criminal
+          Behavior and Victimology. I possess analytical and forensic skills,
+          along with a deep understanding of justice and forensic principles,
+          thanks to this multidisciplinary education.</div>
 
         image:
           type: ImageBlock
