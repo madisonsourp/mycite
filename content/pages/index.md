@@ -135,7 +135,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Lowe's Home Improvement
-        tagline: Volunteer
+        tagline: Customer Service Associate - Hardware
         subtitle: February 2019 - November 2019
         text: >
           During my time volunteering at the Arizona Animal Welfare League, I
