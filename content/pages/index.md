@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Arizona Animal Welfare League
-        subtitle: "Volunteer\_\_\_\_\_\_\_\_\_\_ February 2019 - November 2019"
+        subtitle: "Volunteer\_\_\_\_\_\_\_\_\_\_\_ February 2019 - November 2019"
         text: >
           At Lowe's, my duties as a Hardware and Tools Associate include
           stocking and organizing the hardware and tools departments, helping
