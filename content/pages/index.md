@@ -100,7 +100,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/arizona_animal_welfare_league_logo.jpg
           altText: Jane Doe
           styles:
             self:
