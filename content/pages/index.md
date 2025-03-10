@@ -196,7 +196,7 @@ sections:
         subtitle: "High School Diploma\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (August 2018 - May 2022)"
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Ironwood_Web_180.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
