@@ -196,7 +196,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Ironwood High School
-        subtitle: "High School Diploma\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (August 2018 - May 2022)"
+        subtitle: "High School Diploma\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (August 2018 - May 2022)"
         image:
           type: ImageBlock
           url: /images/Ironwood_Web_180.jpg
