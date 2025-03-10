@@ -130,6 +130,9 @@ sections:
       type: TitleBlock
       text: Experience
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
