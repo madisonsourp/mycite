@@ -164,7 +164,7 @@ sections:
           system, preparing me for a rewarding career in justice.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/grand-canyon-logo.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
