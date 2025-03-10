@@ -141,7 +141,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Grand Canyon University
-        subtitle: "Bachelor of Science in Justice Studies\_\_\_ (September 2022 - Current)"
+        subtitle: "Bachelor of Science in Justice Studies\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (September 2022 - Current)"
         text: >
           As of 2022, I have begun my studies at Grand Canyon University (GCU)
           as a forensic science major, with the ambition of becoming a crime
