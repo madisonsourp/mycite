@@ -289,9 +289,18 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
-          <div style="text-align: center">Music EnthusiastFilm
-          EnthusiastGamingVideo editingHome organizing</div>
+        text: |+
+          *   Music Enthusiast
+
+          *   Film 
+
+          *   Enthusiast
+
+          *   Gaming
+
+          *   Video Editing
+
+          *   Home organizing
 
         image:
           type: ImageBlock
