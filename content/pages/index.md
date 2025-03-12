@@ -213,16 +213,16 @@ sections:
         text: >
           As a high school freshman in 2018, I had initially hoped to pursue a
           career in veterinary medicine or nursing, motivated by my passion for
-          helping others and caring for animals. In high school, I experienced
-          some learning issues due to the fact that I had to work harder than
-          others in order to learn the material and math and science were among
-          my favorite subjects in school. I took a criminal justice class at the
-          beginning of my senior year and it sparked a newfound interest in the
-          field of justice studies, and this experience encouraged me to explore
-          careers in this field, as well as shaping my career aspirations and
-          deepening my knowledge of law and society. There are many things that
-          I learned from my high school journey that continue to guide me today,
-          including resilience, adaptability, and a commitment to growth.
+          helping others and caring for animals. When I was in high school, my
+          favorite subjects were mathematics and science, and in the beginning
+          of my senior year, I took a criminal justice class which sparked a
+          newfound interest in the field of justice studies and inspired me to
+          consider careers in this field. As a result of this experience, I have
+          been encouraged to explore careers in this field, as well as forming
+          my career aspirations and deepening my knowledge of society and law.
+          There are many things that I learned from my high school journey that
+          continue to guide me today, including resilience, adaptability, and a
+          commitment to growth.
     actions: []
     elementId: ''
     variant: small-list
