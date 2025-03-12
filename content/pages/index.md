@@ -287,7 +287,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Activities
         subtitle: $ 88 – $ 176
         text: |+
           *   Music Enthusiast 
