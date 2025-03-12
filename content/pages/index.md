@@ -62,7 +62,7 @@ sections:
           and make sure shelves are properly supplied. Comprehensive hardware
           and tool knowledge, excellent customer service abilities, physical
           stamina, attention to detail, teamwork skills, and the capacity to
-          re-key locks for clients are all necessary for this position.
+          re-key locks for customers are all necessary for this position.
         image:
           type: ImageBlock
           url: /images/Lowes-Logo.png
