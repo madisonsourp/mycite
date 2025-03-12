@@ -287,7 +287,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Activities
+        title: ''
         subtitle: ''
         text: |+
           *   Music Enthusiast 
