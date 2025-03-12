@@ -145,10 +145,10 @@ sections:
       - type: FeaturedItem
         title: Grand Canyon University
         subtitle: "Bachelor of Science in Justice Studies\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_ \_ (September 2022 - Current)"
-        text: >
-          Throughout 2022, I studied forensic science at Grand Canyon University
-          (GCU) with the goal of becoming a crime scene analyst. The Forensic
-          Photography & Reconstruction course I took during my time at
+        text: >+
+          ###### Throughout 2022, I studied forensic science at Grand Canyon
+          University (GCU) with the goal of becoming a crime scene analyst. The
+          Forensic Photography & Reconstruction course I took during my time at
           university was one of the most impactful courses I have ever taken.
           This class increased my interest in fieldwork and crime scene analysis
           in a deeper way than I had ever expected. After realizing that
@@ -165,6 +165,7 @@ sections:
           Through these experiences, I have gained critical thinking skills,
           analytical abilities, and a comprehensive understanding of the justice
           system, preparing me for a rewarding career in justice.
+
         image:
           type: ImageBlock
           url: /images/Grand_Canyon_University_seal.svg
