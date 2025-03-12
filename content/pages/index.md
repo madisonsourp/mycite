@@ -237,46 +237,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Skills
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: |+
-      <div style="text-align: left"></div>
-
-      *   Self-management
-
-      *   Excellent time management skills
-
-      *   Resilience
-
-      *   Organizational skills
-
-      *   Team player
-
-      *   Rekey
-
-      *   Basic computer skills (Microsoft Office, etc).
-
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
