@@ -406,7 +406,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Account Executive
+        title: Rekey
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
