@@ -258,7 +258,7 @@ sections:
 
       *   Team player
 
-      *   Rey-locks
+      *   Rekey-locks
 
       *   Basic computer skills (Microsoft Office, etc).
 
