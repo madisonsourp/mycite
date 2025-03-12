@@ -245,20 +245,21 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |
-      Excellent time management skills
+    text: |+
+      *   Excellent time management skills
 
-      Self-management
+      *   Self-management
 
-      Resilience
+      *   Resilience
 
-      Organizational skills
+      *   Organizational skills
 
-      Team player
+      *   Team player
 
-      Rey-locks
+      *   Rey-locks
 
-      Basic computer skills (Microsoft Office, etc).
+      *   Basic computer skills (Microsoft Office, etc).
+
     badge:
       label: ''
       color: text-primary
