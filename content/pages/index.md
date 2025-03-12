@@ -288,7 +288,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Activities
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         text: |+
           *   Music Enthusiast 
 
