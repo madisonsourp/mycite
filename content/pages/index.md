@@ -280,7 +280,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Activities
       color: text-dark
       styles:
         self:
