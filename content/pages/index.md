@@ -246,11 +246,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |+
-      *   <div style="text-align: center">*
-
-              Excellent time management skills</div>
+      <div style="text-align: left"></div>
 
       *   Self-management
+
+      *   Excellent time management skills
 
       *   Resilience
 
