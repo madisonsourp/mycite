@@ -245,15 +245,20 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      The skills I possess include being a dependable and well-organized
-      professional who can manage time well, resolve conflicts well, and
-      self-regulate, resilient and skilled at maintaining efficiency in varied
-      settings, as well as proficiency with Microsoft Office and other key
-      computer programs and expertise with rekeying locks. Collaborative team
-      player who exhibits exceptional organizational skills and adaptability as
-      well as the ability to contribute significantly to shared goals through
-      collaborative teamwork
+    text: |
+      Excellent time management skills
+
+      Self-management
+
+      Resilience
+
+      Organizational skills
+
+      Team player
+
+      Rey-locks
+
+      Basic computer skills (Microsoft Office, etc).
     badge:
       label: ''
       color: text-primary
