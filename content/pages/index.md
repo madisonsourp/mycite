@@ -274,7 +274,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Excellent time management skills
+        title: Exceptional ability to allocate and manage time efficiently
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
