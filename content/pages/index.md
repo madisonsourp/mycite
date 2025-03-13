@@ -251,7 +251,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Self-management
-        subtitle: Sales
+        subtitle: ''
         text: >
           Throughout different situations, I demonstrate strong self-management
           skills as I am able to maintain my self-control by regulating my
