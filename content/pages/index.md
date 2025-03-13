@@ -252,10 +252,14 @@ sections:
       - type: FeaturedItem
         title: Self-management
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Throughout different situations, I demonstrate strong self-management
+          skills as I am able to maintain my self-control by regulating my
+          emotions, thoughts, and behavior in different situations as a result
+          of my ability to stay disciplined and stay calm in situations where I
+          must stay calm. A good example of this can be found in how well I am
+          able to manage challenges, maintain productivity, and control stress
+          when faced with them.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
