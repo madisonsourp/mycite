@@ -303,10 +303,17 @@ sections:
       - type: FeaturedItem
         title: Resilience
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I use resilience as a key to managing my academic, professional, and
+          personal life effectively. Being able to balance a full course load
+          with full-time work has taught me the importance of adapting to
+          challenges and continuing to push forward, even when things get
+          challenging. My focus is on staying motivated and finding solutions
+          rather than dwelling on setbacks, whether it's for school projects or
+          work responsibilities. Even though life can be unpredictable, my
+          resilience allows me to remain focused, learn from challenges, and
+          keep working toward my goals, and it is this mindset that allows me to
+          keep moving forward.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
