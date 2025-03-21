@@ -411,7 +411,7 @@ sections:
       text: Contact Me
       color: text-dark
       type: TitleBlock
-    subtitle: Lets start a conversation at contact@mdsn.cc
+    subtitle: Need to get in touch? Email me at contact@mdsn.cc
     text: ''
     media:
       fields:
