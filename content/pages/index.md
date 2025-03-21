@@ -412,8 +412,7 @@ sections:
       text: Contact Me
       color: text-dark
     subtitle: contact@mdsn.cc
-    text: |
-      Email me with any qu
+    text: ''
     actions: []
     media:
       type: FormBlock
