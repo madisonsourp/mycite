@@ -302,7 +302,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Resilience
-        subtitle: Engineering
+        subtitle: ''
         text: >
           I use resilience as a key to managing my academic, professional, and
           personal life effectively. Being able to balance a full course load
