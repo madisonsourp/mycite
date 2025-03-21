@@ -357,7 +357,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Rekey
-        subtitle: Sales
+        subtitle: ''
         text: >
           Rekeying is a specialized skill that not many people possess, making
           it both unique and valuable. It involves changing the internal
