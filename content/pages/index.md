@@ -328,10 +328,20 @@ sections:
       - type: FeaturedItem
         title: Team Player
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Teamwork is demonstrated by supporting coworkers and customers even
+          when faced with unfamiliar tasks, and learning from these situations.
+          Working with my colleagues at Lowe's on a daily basis, I share
+          responsibilities with them, optimize workflows, and enhance
+          efficiency, ensuring that our goals are met individually and as a
+          team. In order to create a positive and cooperative work environment,
+          I promote open communication, provide assistance during busy times,
+          and provide constructive feedback. The team player mindset allows me
+          to adapt to various roles, solve challenges collaboratively, and
+          consistently contribute to smoother operations. Through these
+          experiences, I have improved my ability to work collaboratively,
+          developed problem-solving and interpersonal skills, and demonstrated
+          dedication to teamwork.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
