@@ -411,7 +411,7 @@ sections:
       type: TitleBlock
       text: Contact Me
       color: text-dark
-    subtitle: contact@mdsn.cc
+    subtitle: email me at contact@mdsn.cc
     text: ''
     actions: []
     media:
