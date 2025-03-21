@@ -327,7 +327,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Team Player
-        subtitle: Sales
+        subtitle: ''
         text: >
           Teamwork is demonstrated by supporting coworkers and customers even
           when faced with unfamiliar tasks, and learning from these situations.
