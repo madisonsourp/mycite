@@ -276,10 +276,17 @@ sections:
       - type: FeaturedItem
         title: Time Management
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          While attending Grand Canyon University, I managed to maintain a high
+          level of performance while maintaining a demanding schedule that
+          included a full course load as well as full-time employment, often
+          working up to nine hours a day. In addition to ensuring my academic
+          coursework was completed on time, I also maintained a high standard of
+          performance in my job duties by effectively prioritizing my
+          coursework. Using strong organizational and prioritization skills, I
+          met deadlines, maintained a specific GPA, and seamlessly transitioned
+          between academic and professional commitments. Time management skills
+          include allocating time efficiently and using organizational tools.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
