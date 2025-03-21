@@ -275,7 +275,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Time Management
-        subtitle: Marketing
+        subtitle: ''
         text: >
           While attending Grand Canyon University, I managed to maintain a high
           level of performance while maintaining a demanding schedule that
