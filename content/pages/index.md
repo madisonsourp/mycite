@@ -411,7 +411,7 @@ sections:
       text: Contact Me
       color: text-dark
       type: TitleBlock
-    subtitle: contact@mdsn.cc
+    subtitle: Lets start a conversation at contact@mdsn.cc
     text: ''
     media:
       fields:
