@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Madison Sourp
     text: >+
-      Energetic and dedicated individual with a proven track record of
+      ###### Energetic and dedicated individual with a proven track record of
       excellence in time management, conflict resolution, and self-management.
       Highly resilient and organized, with a strong ability to prioritize tasks
       and meet deadlines. Possess specialized skills in rekeying locks and
@@ -17,8 +17,6 @@ sections:
       collaborative team player known for reliability and effective
       communication. Committed to delivering exceptional service and
       contributing positively to team dynamics.
-
-
 
     actions: []
     media:
