@@ -411,7 +411,7 @@ sections:
       type: TitleBlock
       text: Contact Me
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: contact@mdsn.cc
     text: |
       Email me with any qu
     actions: []
