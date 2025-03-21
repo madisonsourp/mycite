@@ -358,10 +358,19 @@ sections:
       - type: FeaturedItem
         title: Rekey
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Rekeying is a specialized skill that not many people possess, making
+          it both unique and valuable. It involves changing the internal
+          configuration of a lock so it can be operated by a different key while
+          maintaining the existing hardware.  When I first started working at
+          Lowe's, I learned about rekeying, and I immediately loved it. As I
+          disassembled the doorknob, carefully extracting the cylinder,
+          rearranging the pins so they match the new key, and reassembling the
+          lock, I learned attention to detail, patience, and a methodical
+          approach, all of which I naturally possessed. By adjusting the lock
+          mechanism, I became fascinated and this hands-on experience not only
+          deepened my expertise, but also reinforced my passion for solving
+          technical challenges.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
